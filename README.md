@@ -33,11 +33,19 @@ work_dir: /path/to/working/directory
 ct_real_dir: /path/to/GT_CTs
 
 ct_synth_dir: /path/to/s_CTs
+
 hu_thresh: 300
+
 n_sample: 10000
+
 work_dir: Directory for output meshes and CSV files.
+
 ct_real_dir: Path to real CT scans.
+
 ct_synth_dir: Path to synthetic CT scans.
+
 hu_thresh: Hounsfield Unit threshold for skull segmentation.
+
 n_sample: Number of points to sample for mesh evaluation.
+
 Prepare Input Data: Place your .nii.gz files in the directories specified in ct_config.yaml.
