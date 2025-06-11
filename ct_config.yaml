@@ -1,0 +1,7 @@
+# === edit the three absolute paths below ===========================
+ct_real_dir:  "C:/Users/MK000025/Desktop/CTs_output/novel_eval/GT_CTs"
+ct_synth_dir: "C:/Users/MK000025/Desktop/CTs_output/novel_eval/s_CTs"
+work_dir:     "C:/Users/MK000025/Desktop/CTs_output/novel_eval/eval_skull"   # meshes + csv
+# ==================================================================
+hu_thresh: 300          # HU threshold for bone
+n_sample:  10000        # points per mesh for Chamfer/HD
