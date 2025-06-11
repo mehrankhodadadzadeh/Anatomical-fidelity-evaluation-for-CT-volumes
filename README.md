@@ -29,7 +29,9 @@ matplotlib==3.9.2
 pyyaml==6.0.2
 
 work_dir: /path/to/working/directory
+
 ct_real_dir: /path/to/GT_CTs
+
 ct_synth_dir: /path/to/s_CTs
 hu_thresh: 300
 n_sample: 10000
